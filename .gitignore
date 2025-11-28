@@ -1,1 +1,5 @@
 data/
+final.csv 
+calendar_merge.csv
+.venv/
+__pycache__/
