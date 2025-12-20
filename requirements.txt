@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+scikit-learn
+joblib
+
+# Models
+lightgbm
+catboost
+xgboost
+
+# MLOps
+dvc
+mlflow
+
+# Serving
+fastapi
+uvicorn
+streamlit
+
+# Utils
+tqdm
+requests

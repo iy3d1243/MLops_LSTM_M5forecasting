@@ -3,3 +3,7 @@ final.csv
 calendar_merge.csv
 .venv/
 __pycache__/
+models/
+mlops_venv/
+*.pyc
+.ipynb_checkpoints/
